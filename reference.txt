@@ -1,4 +1,2 @@
 Dataset:
 https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
-
-https://github.com/cabani/MaskedFace-Net
