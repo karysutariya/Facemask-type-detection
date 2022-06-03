@@ -2,5 +2,5 @@
 
 Team members
 1. Kary Sutariya (40193909)
-2. Marayam 
+2. Maryam Valipour (40224474) 
 3. Kanika 
