@@ -56,7 +56,6 @@ class net_ver1(nn.Module):
 
 
 
-
 class net_ver2(nn.Module):
     def __init__(self):
         super(net_ver2, self).__init__()
