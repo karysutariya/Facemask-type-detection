@@ -1,2 +1,2 @@
 Dataset:
-https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
+https://www.kaggle.com/datasets/rahulmangalampalli/mafa-data
