@@ -1,2 +1,8 @@
 Dataset:
+<<<<<<< HEAD
 https://www.kaggle.com/datasets/rahulmangalampalli/mafa-data
+=======
+https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
+
+https://github.com/cabani/MaskedFace-Net
+>>>>>>> master
