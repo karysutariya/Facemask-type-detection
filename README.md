@@ -2,7 +2,6 @@
 
 Team members
 1. Kary Sutariya (40193909)
-<<<<<<< HEAD
 2. Maryam Valipour (40224474) 
 3. Kanika Aggarwal (40195981)
 
@@ -22,7 +21,3 @@ To run this code, all required libraries which has been used in main.ipynb must 
 
 
 Note: In this code, we have implemented three different models. Here, one should take care of "load_model = False" so if this condition is false for a model, it won't be loaded. By default, this condition is true for main model (model no 1)
-=======
-2. Marayam 
-3. Kanika 
->>>>>>> master
