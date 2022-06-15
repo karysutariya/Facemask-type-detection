@@ -153,7 +153,7 @@
 ../Data part 2/Mask worn incorrectly/35040_Mask_Mouth_Chin.jpg,male,young
 ../Data part 2/Mask worn incorrectly/35000_Mask_Nose_Mouth.jpg,female,old
 ../Data part 2/Surgical Mask/Surgical_Mask89.jpg,female,old
-../Data part 2/No Face Mask/26_0_0_20170117195907555.jpg.chip.jpg,male ,old
+../Data part 2/No Face Mask/26_0_0_20170117195907555.jpg.chip.jpg,"male ",old
 ../Data part 2/N-95_Mask/N95_Mask1080.jpg,female,young
 ../Data part 2/Mask worn incorrectly/35103_Mask_Mouth_Chin.jpg,female,old
 ../Data part 2/Surgical Mask/Surgical_Mask94.jpg,male,old
@@ -238,7 +238,7 @@
 ../Data part 2/No Face Mask/28_1_1_20170116234825295.jpg.chip.jpg,female,young
 ../Data part 2/Cloth mask/Clothing_Mask97.jpg,male,young
 ../Data part 2/Surgical Mask/Surgical_Mask248.jpg,male,young
-../Data part 2/Surgical Mask/Surgical_Mask624.jpg,female ,old
+../Data part 2/Surgical Mask/Surgical_Mask624.jpg,"female ",old
 ../Data part 2/No Face Mask/23_1_3_20170119152429983.jpg.chip.jpg,female,young
 ../Data part 2/N-95_Mask/2.jpg,male,old
 ../Data part 2/No Face Mask/28_0_1_20170113134036488.jpg.chip.jpg,male,old
@@ -251,7 +251,7 @@
 ../Data part 2/Surgical Mask/Surgical_Mask286.jpg,female,young
 ../Data part 2/Surgical Mask/Surgical_Mask215.jpg,male,young
 ../Data part 2/Surgical Mask/Surgical_Mask12.jpg,female,old
-../Data part 2/Surgical Mask/Surgical_Mask128.jpg,female ,young
+../Data part 2/Surgical Mask/Surgical_Mask128.jpg,"female ",young
 ../Data part 2/N-95_Mask/N95_Mask1361.jpg,female,young
 ../Data part 2/N-95_Mask/N95_Mask1333.jpg,female,young
 ../Data part 2/No Face Mask/28_0_0_20170113132654464.jpg.chip.jpg,male,young
@@ -325,7 +325,7 @@
 ../Data part 2/Mask worn incorrectly/35119_Mask_Chin.jpg,male,old
 ../Data part 2/Mask worn incorrectly/35242_Mask_Mouth_Chin.jpg,male,young
 ../Data part 2/Cloth mask/Clothing_Mask49.jpg,male,old
-../Data part 2/Cloth mask/Clothing_Mask22.jpg,female ,old
+../Data part 2/Cloth mask/Clothing_Mask22.jpg,"female ",old
 ../Data part 2/No Face Mask/23_1_3_20170104222308327.jpg.chip.jpg,female,young
 ../Data part 2/Surgical Mask/Surgical_Mask616.jpg,male,old
 ../Data part 2/Surgical Mask/Surgical_Mask609.jpg,male,young
@@ -398,56 +398,56 @@
 ../Data part 2/N-95_Mask/N95_Mask1151.jpg,,
 ../Data part 2/No Face Mask/25_1_3_20170119172102729.jpg.chip.jpg,,
 ../Data part 2/Mask worn incorrectly/35381_Mask_Mouth_Chin.jpg,,
-../Data part 2/Mask worn incorrectly/35131_Mask_Mouth_Chin.jpg,,
-../Data part 2/Mask worn incorrectly/35122_Mask_Nose_Mouth.jpg,,
-../Data part 2/N-95_Mask/N95_Mask1038.jpg,,
-../Data part 2/Mask worn incorrectly/35126_Mask_Mouth_Chin.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask208.jpg,,
-../Data part 2/Mask worn incorrectly/35066_Mask_Nose_Mouth.jpg,,
-../Data part 2/Surgical Mask/Surgical_Mask99.jpg,,
-../Data part 2/N-95_Mask/N95_Mask1176.jpg,,
-../Data part 2/Mask worn incorrectly/35192_Mask_Mouth_Chin.jpg,,
-../Data part 2/Mask worn incorrectly/35262_Mask_Mouth_Chin.jpg,,
-../Data part 2/No Face Mask/29_0_0_20170117180942324.jpg.chip.jpg,,
-../Data part 2/No Face Mask/26_0_2_20170116175845872.jpg.chip.jpg,,
-../Data part 2/N-95_Mask/N95_Mask1135.jpg,,
-../Data part 2/No Face Mask/26_1_0_20170119192656049.jpg.chip.jpg,,
-../Data part 2/Mask worn incorrectly/35274_Mask_Mouth_Chin.jpg,,
-../Data part 2/No Face Mask/39_1_4_20170105001146812.jpg.chip.jpg,,
-../Data part 2/N-95_Mask/N95_Mask1002.jpg,,
-../Data part 2/Surgical Mask/Surgical_Mask156.jpg,,
-../Data part 2/Mask worn incorrectly/35129_Mask_Mouth_Chin.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask280.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask325.jpg,,
-../Data part 2/No Face Mask/21_0_3_20170119154036769.jpg.chip.jpg,,
-../Data part 2/Mask worn incorrectly/35148_Mask_Chin.jpg,,
-../Data part 2/N-95_Mask/N95_Mask1056.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask350.jpg,,
-../Data part 2/Surgical Mask/Surgical_Mask559.jpg,,
-../Data part 2/Mask worn incorrectly/35155_Mask_Mouth_Chin.jpg,,
-../Data part 2/No Face Mask/26_0_3_20170104230356601.jpg.chip.jpg,,
-../Data part 2/No Face Mask/26_1_1_20170117100117876.jpg.chip.jpg,,
-../Data part 2/Mask worn incorrectly/35128_Mask_Mouth_Chin.jpg,,
-../Data part 2/Surgical Mask/Surgical_Mask278.jpg,,
-../Data part 2/No Face Mask/20_1_4_20170103212722908.jpg.chip.jpg,,
-../Data part 2/Surgical Mask/Surgical_Mask163.jpg,,
-../Data part 2/No Face Mask/25_1_3_20170104222218775.jpg.chip.jpg,,
-../Data part 2/N-95_Mask/N95_Mask1335.jpg,,
-../Data part 2/N-95_Mask/N95_Mask1386.jpg,,
-../Data part 2/Mask worn incorrectly/35044_Mask_Mouth_Chin.jpg,,
-../Data part 2/Mask worn incorrectly/35296_Mask_Mouth_Chin.jpg,,
-../Data part 2/Surgical Mask/Surgical_Mask105.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask146.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask118.jpg,,
-../Data part 2/Surgical Mask/Surgical_Mask261.jpg,,
-../Data part 2/Surgical Mask/Surgical_Mask76.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask181.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask345.jpg,,
-../Data part 2/Mask worn incorrectly/35222_Mask_Mouth_Chin.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask249.jpg,,
-../Data part 2/Mask worn incorrectly/35352_Mask_Nose_Mouth.jpg,,
-../Data part 2/Cloth mask/Clothing_Mask316.jpg,,
-../Data part 2/N-95_Mask/N95_Mask1331.jpg,,
+../Data part 2/Mask worn incorrectly/35131_Mask_Mouth_Chin.jpg,"male ",old
+../Data part 2/Mask worn incorrectly/35122_Mask_Nose_Mouth.jpg,female,young
+../Data part 2/N-95_Mask/N95_Mask1038.jpg,female,young
+../Data part 2/Mask worn incorrectly/35126_Mask_Mouth_Chin.jpg,female,young
+../Data part 2/Cloth mask/Clothing_Mask208.jpg,male,old
+../Data part 2/Mask worn incorrectly/35066_Mask_Nose_Mouth.jpg,female,young
+../Data part 2/Surgical Mask/Surgical_Mask99.jpg,female,young
+../Data part 2/N-95_Mask/N95_Mask1176.jpg,female,young
+../Data part 2/Mask worn incorrectly/35192_Mask_Mouth_Chin.jpg,male,old
+../Data part 2/Mask worn incorrectly/35262_Mask_Mouth_Chin.jpg,male,old
+../Data part 2/No Face Mask/29_0_0_20170117180942324.jpg.chip.jpg,male,young
+../Data part 2/No Face Mask/26_0_2_20170116175845872.jpg.chip.jpg,male,young
+../Data part 2/N-95_Mask/N95_Mask1135.jpg,female,young
+../Data part 2/No Face Mask/26_1_0_20170119192656049.jpg.chip.jpg,female,young
+../Data part 2/Mask worn incorrectly/35274_Mask_Mouth_Chin.jpg,female,old
+../Data part 2/No Face Mask/39_1_4_20170105001146812.jpg.chip.jpg,female,old
+../Data part 2/N-95_Mask/N95_Mask1002.jpg,female,young
+../Data part 2/Surgical Mask/Surgical_Mask156.jpg,female,old
+../Data part 2/Mask worn incorrectly/35129_Mask_Mouth_Chin.jpg,female,old
+../Data part 2/Cloth mask/Clothing_Mask280.jpg,female,old
+../Data part 2/Cloth mask/Clothing_Mask325.jpg,male,old
+../Data part 2/No Face Mask/21_0_3_20170119154036769.jpg.chip.jpg,male,old
+../Data part 2/Mask worn incorrectly/35148_Mask_Chin.jpg,female,young
+../Data part 2/N-95_Mask/N95_Mask1056.jpg,male,old
+../Data part 2/Cloth mask/Clothing_Mask350.jpg,male,old
+../Data part 2/Surgical Mask/Surgical_Mask559.jpg,female,young
+../Data part 2/Mask worn incorrectly/35155_Mask_Mouth_Chin.jpg,male,old
+../Data part 2/No Face Mask/26_0_3_20170104230356601.jpg.chip.jpg,male,young
+../Data part 2/No Face Mask/26_1_1_20170117100117876.jpg.chip.jpg,female,old
+../Data part 2/Mask worn incorrectly/35128_Mask_Mouth_Chin.jpg,female,young
+../Data part 2/Surgical Mask/Surgical_Mask278.jpg,male,old
+../Data part 2/No Face Mask/20_1_4_20170103212722908.jpg.chip.jpg,female,young
+../Data part 2/Surgical Mask/Surgical_Mask163.jpg,male,old
+../Data part 2/No Face Mask/25_1_3_20170104222218775.jpg.chip.jpg,female,old
+../Data part 2/N-95_Mask/N95_Mask1335.jpg,female,old
+../Data part 2/N-95_Mask/N95_Mask1386.jpg,male,young
+../Data part 2/Mask worn incorrectly/35044_Mask_Mouth_Chin.jpg,female,young
+../Data part 2/Mask worn incorrectly/35296_Mask_Mouth_Chin.jpg,male,old
+../Data part 2/Surgical Mask/Surgical_Mask105.jpg,male,young
+../Data part 2/Cloth mask/Clothing_Mask146.jpg,female,young
+../Data part 2/Cloth mask/Clothing_Mask118.jpg,male,young
+../Data part 2/Surgical Mask/Surgical_Mask261.jpg,female,old
+../Data part 2/Surgical Mask/Surgical_Mask76.jpg,female,young
+../Data part 2/Cloth mask/Clothing_Mask181.jpg,female,old
+../Data part 2/Cloth mask/Clothing_Mask345.jpg,male,old
+../Data part 2/Mask worn incorrectly/35222_Mask_Mouth_Chin.jpg,male,old
+../Data part 2/Cloth mask/Clothing_Mask249.jpg,male,young
+../Data part 2/Mask worn incorrectly/35352_Mask_Nose_Mouth.jpg,female,old
+../Data part 2/Cloth mask/Clothing_Mask316.jpg,male,old
+../Data part 2/N-95_Mask/N95_Mask1331.jpg,female,young
 ../Data part 2/Surgical Mask/Surgical_Mask101.jpg,,
 ../Data part 2/Surgical Mask/Surgical_Mask643.jpg,,
 ../Data part 2/Surgical Mask/Surgical_Mask88.jpg,,
