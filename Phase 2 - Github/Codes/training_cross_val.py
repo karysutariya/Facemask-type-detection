@@ -207,7 +207,7 @@ for fold, (train_idx,val_idx) in enumerate(splits.split(np.arange(len(train_data
     model_crossval = ResNet18(3, ResBlock, outputs=5)
     
     learning_rate = 0.001
-    num_epochs_train = 2
+    num_epochs_train = 50
     criterion = nn.CrossEntropyLoss()
     optimizer = torch.optim.SGD(model_crossval.parameters(), lr=learning_rate)
     
