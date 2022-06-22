@@ -1,0 +1,156 @@
+Fold1: 
+Testing Accuracy of the model on the test images for fold157.61078998073218 % 
+Classification Report for the Whole dataset for fold1: 
+              precision    recall  f1-score   support
+
+         0.0       0.73      0.38      0.50       100
+         1.0       0.43      0.44      0.43       104
+         2.0       0.67      0.59      0.63       114
+         3.0       0.57      0.94      0.71       100
+         4.0       0.57      0.53      0.55       101
+
+    accuracy                           0.58       519
+   macro avg       0.59      0.58      0.56       519
+weighted avg       0.59      0.58      0.57       519
+
+Fold2: 
+Testing Accuracy of the model on the test images for fold260.69364161849711 % 
+Classification Report for the Whole dataset for fold2: 
+              precision    recall  f1-score   support
+
+         0.0       0.83      0.35      0.49       100
+         1.0       0.44      0.52      0.48       104
+         2.0       0.70      0.61      0.65       114
+         3.0       0.63      0.96      0.76       100
+         4.0       0.59      0.59      0.59       101
+
+    accuracy                           0.61       519
+   macro avg       0.64      0.61      0.60       519
+weighted avg       0.64      0.61      0.60       519
+
+Fold3: 
+Testing Accuracy of the model on the test images for fold357.80346820809249 % 
+Classification Report for the Whole dataset for fold3: 
+              precision    recall  f1-score   support
+
+         0.0       0.80      0.35      0.49       100
+         1.0       0.41      0.53      0.46       104
+         2.0       0.60      0.66      0.63       114
+         3.0       0.64      0.91      0.75       100
+         4.0       0.59      0.44      0.50       101
+
+    accuracy                           0.58       519
+   macro avg       0.61      0.58      0.57       519
+weighted avg       0.61      0.58      0.57       519
+
+Fold4: 
+Testing Accuracy of the model on the test images for fold455.68400770712909 % 
+Classification Report for the Whole dataset for fold4: 
+              precision    recall  f1-score   support
+
+         0.0       0.50      0.21      0.30       100
+         1.0       0.40      0.43      0.42       104
+         2.0       0.57      0.61      0.59       114
+         3.0       0.66      0.97      0.79       100
+         4.0       0.59      0.55      0.57       101
+
+    accuracy                           0.56       519
+   macro avg       0.54      0.56      0.53       519
+weighted avg       0.54      0.56      0.53       519
+
+Fold5: 
+Testing Accuracy of the model on the test images for fold556.64739884393064 % 
+Classification Report for the Whole dataset for fold5: 
+              precision    recall  f1-score   support
+
+         0.0       0.56      0.36      0.44       100
+         1.0       0.42      0.62      0.50       104
+         2.0       0.58      0.57      0.57       114
+         3.0       0.81      0.70      0.75       100
+         4.0       0.57      0.57      0.57       101
+
+    accuracy                           0.57       519
+   macro avg       0.59      0.57      0.57       519
+weighted avg       0.59      0.57      0.57       519
+
+Fold6: 
+Testing Accuracy of the model on the test images for fold663.58381502890174 % 
+Classification Report for the Whole dataset for fold6: 
+              precision    recall  f1-score   support
+
+         0.0       0.81      0.34      0.48       100
+         1.0       0.53      0.67      0.60       104
+         2.0       0.68      0.64      0.66       114
+         3.0       0.66      0.98      0.79       100
+         4.0       0.60      0.54      0.57       101
+
+    accuracy                           0.64       519
+   macro avg       0.66      0.64      0.62       519
+weighted avg       0.66      0.64      0.62       519
+
+Fold7: 
+Testing Accuracy of the model on the test images for fold753.5645472061657 % 
+Classification Report for the Whole dataset for fold7: 
+              precision    recall  f1-score   support
+
+         0.0       0.50      0.17      0.25       100
+         1.0       0.35      0.67      0.46       104
+         2.0       0.69      0.54      0.60       114
+         3.0       0.75      0.80      0.78       100
+         4.0       0.55      0.50      0.52       101
+
+    accuracy                           0.54       519
+   macro avg       0.57      0.53      0.52       519
+weighted avg       0.57      0.54      0.52       519
+
+Fold8: 
+Testing Accuracy of the model on the test images for fold860.308285163776496 % 
+Classification Report for the Whole dataset for fold8: 
+              precision    recall  f1-score   support
+
+         0.0       0.66      0.33      0.44       100
+         1.0       0.46      0.49      0.48       104
+         2.0       0.65      0.63      0.64       114
+         3.0       0.63      0.98      0.77       100
+         4.0       0.63      0.58      0.61       101
+
+    accuracy                           0.60       519
+   macro avg       0.61      0.60      0.59       519
+weighted avg       0.61      0.60      0.59       519
+
+Fold9: 
+Testing Accuracy of the model on the test images for fold939.691714836223504 % 
+Classification Report for the Whole dataset for fold9: 
+              precision    recall  f1-score   support
+
+         0.0       0.31      0.40      0.35       100
+         1.0       0.17      0.26      0.20       104
+         2.0       0.33      0.01      0.02       114
+         3.0       0.70      0.88      0.78       100
+         4.0       0.49      0.50      0.49       101
+
+    accuracy                           0.40       519
+   macro avg       0.40      0.41      0.37       519
+weighted avg       0.40      0.40      0.36       519
+
+Fold10: 
+Testing Accuracy of the model on the test images for fold1058.76685934489403 % 
+Classification Report for the Whole dataset for fold10: 
+              precision    recall  f1-score   support
+
+         0.0       0.67      0.33      0.44       100
+         1.0       0.40      0.49      0.44       104
+         2.0       0.70      0.55      0.62       114
+         3.0       0.66      0.95      0.78       100
+         4.0       0.59      0.62      0.61       101
+
+    accuracy                           0.59       519
+   macro avg       0.60      0.59      0.58       519
+weighted avg       0.60      0.59      0.58       519
+
+Aggregated Classification Report for the Whole dataset: 
+Aggregated: class_report_macro_avg: 
+{'precision': 0.5812586795059222, 'recall': 0.5654507930145241, 'f1-score': 0.5500513707332624, 'support': 519.0}
+Aggregated: class_report_weighted_avg: 
+{'precision': 0.5808421661118206, 'recall': 0.564354527938343, 'f1-score': 0.5495774321012435, 'support': 519.0}
+Aggregated: Accuracy: 0.564354527938343

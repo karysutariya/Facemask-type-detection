@@ -1,0 +1,61 @@
+Testing Accuracy of the model on the test images: 58.76685934489403 % 
+Classification Report for the Whole dataset: 
+              precision    recall  f1-score   support
+
+         0.0       0.67      0.33      0.44       100
+         1.0       0.40      0.49      0.44       104
+         2.0       0.70      0.55      0.62       114
+         3.0       0.66      0.95      0.78       100
+         4.0       0.59      0.62      0.61       101
+
+    accuracy                           0.59       519
+   macro avg       0.60      0.59      0.58       519
+weighted avg       0.60      0.59      0.58       519
+Classification Report for females in dataset: 
+              precision    recall  f1-score   support
+
+         0.0       0.67      0.33      0.44        55
+         1.0       0.35      0.44      0.39        57
+         2.0       0.69      0.58      0.63        73
+         3.0       0.62      0.98      0.76        49
+         4.0       0.67      0.63      0.65        63
+
+    accuracy                           0.58       297
+   macro avg       0.60      0.59      0.57       297
+weighted avg       0.60      0.58      0.57       297
+Classification Report for male in dataset: 
+              precision    recall  f1-score   support
+
+         0.0       0.68      0.33      0.45        45
+         1.0       0.46      0.55      0.50        47
+         2.0       0.72      0.51      0.60        41
+         3.0       0.69      0.92      0.79        51
+         4.0       0.49      0.61      0.54        38
+
+    accuracy                           0.59       222
+   macro avg       0.61      0.59      0.58       222
+weighted avg       0.61      0.59      0.58       222
+Classification Report for young in dataset: 
+              precision    recall  f1-score   support
+
+         0.0       0.70      0.27      0.39        52
+         1.0       0.39      0.49      0.44        59
+         2.0       0.62      0.51      0.56        70
+         3.0       0.69      0.97      0.81        63
+         4.0       0.63      0.67      0.65        58
+
+    accuracy                           0.59       302
+   macro avg       0.61      0.58      0.57       302
+weighted avg       0.61      0.59      0.58       302
+Classification Report for old in dataset: 
+              precision    recall  f1-score   support
+
+         0.0       0.66      0.40      0.49        48
+         1.0       0.41      0.49      0.44        45
+         2.0       0.84      0.61      0.71        44
+         3.0       0.60      0.92      0.72        37
+         4.0       0.53      0.56      0.55        43
+
+    accuracy                           0.58       217
+   macro avg       0.61      0.60      0.58       217
+weighted avg       0.61      0.58      0.58       217
