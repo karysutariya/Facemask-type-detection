@@ -73,7 +73,7 @@ Trained models for the three different architectures are saved in the three subf
 To run this file, at first:
 8-1) set: “test_dataset = 'new’ (default value )if you want to test on the test dataset from phase 2 of the project
 8-2) set: “test_dataset = 'old' if you want to test on the test dataset from phase 1 of the project
-8-2) set: “load_mode_1=True”, “load_mode_2=True”, “load_mode_3=True”  if you want to see the result of evaluation from Model ver1, ver2, and ver3, respectively (default: the first model is True and the second and third model are set to False)
+8-2) set: “load_model_1=True”, “load_model_2=True”, “load_model_3=True”  if you want to see the result of evaluation from Model ver1, ver2, and ver3, respectively (default: the first model is True and the second and third model are set to False)
 Model with best performance is saved in folder: “Models/old_model_train_test_split/ver1”
 
 For example for model saved in: “Models/old_model_train_test_split/ver1/”

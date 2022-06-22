@@ -216,7 +216,7 @@ def show_batch(dl):
         break
         
 show_batch(train_loader)
-plt.savefig('Figures/images_after_pre_process.jpg')
+plt.savefig('../Figures/old_model_train_test_split/images_after_pre_process.jpg')
 
 """Models"""
 
